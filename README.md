@@ -1,6 +1,6 @@
 # Git Change Log Microservice
 
-This microservice is used to fetch git change log data for given git repository between its tags. It lists newly added and modified files name, retuns short-stat of total count changed file from previous tags also detail logs with commit details, author for given duration in input. Refer Swagger api after installation.
+This microservice is used to fetch git change log data for given git repository between its tags. It lists newly added and modified files name, retuns short-stat of total count changed file from previous tags also detail logs with commit details, author for given duration in input. Refer Swagger api after installation. 
 
 ## Installation
 ### Checkout Repository
